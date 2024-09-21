@@ -1,0 +1,65 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+.footers {
+    background: rgba(11,70,14,1);
+}
+.jumbotron {
+    background: linear-gradient(white 0%, #5890ff 50%, #05006b 100%);
+}
+.profiles {
+    background: linear-gradient(rgba(255,255,255,1) 0%, rgba(40,130,11,1) 50%, rgba(11,70,14,1) 100%);
+}
+.homes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding: 100px 0px 100px 0px;
+    
+}
+.footers {
+    background: rgba(11,70,14,1);
+}
+.homes h1 {
+    color: black;
+    font-weight: 600;
+
+}
+.homes h2 {
+    color: white;
+}
+.homes p {
+    color: white;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.profileimage {
+    width: 200px;
+    margin: 50px;
+}
+.profile h2 {
+    color: white;
+}
+.profile p {
+    color: white;
+}
+.myproject {
+    background: linear-gradient(white 0%, #5890ff 50%, #05006b 100%);
+    margin-top: 100px;
+    padding: 100px 0px 100px 0px;
+}
+.mycontact {
+    background: linear-gradient(rgba(255,255,255,1) 0%, rgba(40,130,11,1) 50%, rgba(11,70,14,1) 100%);
+}
+.row {
+    display: flex;
+    justify-content: space-around;
+}
